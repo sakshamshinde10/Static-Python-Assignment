@@ -1,0 +1,5 @@
+tea,10.0,98
+coffee,30.0,97
+chicken tikka,300.0,23
+paneer tikka,260.0,100
+biscuit,20.0,100
